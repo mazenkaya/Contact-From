@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+.alter {
+    margin-bottom: 5px;
+}
+.contact-form {
+    max-width: 450px;
+    margin: 10px auto;
+}
+.contact-form input {
+    margin-bottom: 10px;
+}
+.contact-form .custom-alert {
+    padding: 5px 10px;
+    display: none;
+}
